@@ -1,0 +1,137 @@
+Dazer210@Dawid:~$ sudo ls -alR
+.:
+total 16
+drwxrwxr-x 3 Dazer210 Dazer210 4096 May 11 15:38 .
+drwxrwxr-x 3 Dazer210 Dazer210 4096 May 11 15:38 ..
+drwxrwxr-x 8 Dazer210 Dazer210 4096 May 14 18:17 .git
+-rw-rw-r-- 1 Dazer210 Dazer210   20 May 11 15:38 README.md
+
+./.git:
+total 56
+drwxrwxr-x 8 Dazer210 Dazer210 4096 May 14 18:17 .
+drwxrwxr-x 3 Dazer210 Dazer210 4096 May 11 15:38 ..
+drwxrwxr-x 2 Dazer210 Dazer210 4096 May 11 15:38 branches
+-rw-rw-r-- 1 Dazer210 Dazer210  205 May 14 18:17 COMMIT_EDITMSG
+-rw-rw-r-- 1 Dazer210 Dazer210  271 May 11 15:38 config
+-rw-rw-r-- 1 Dazer210 Dazer210   73 May 11 15:38 description
+-rw-rw-r-- 1 Dazer210 Dazer210   21 May 11 15:38 HEAD
+drwxrwxr-x 2 Dazer210 Dazer210 4096 May 11 15:38 hooks
+-rw-rw-r-- 1 Dazer210 Dazer210  137 May 11 15:38 index
+drwxrwxr-x 2 Dazer210 Dazer210 4096 May 11 15:38 info
+drwxrwxr-x 3 Dazer210 Dazer210 4096 May 11 15:38 logs
+drwxrwxr-x 4 Dazer210 Dazer210 4096 May 11 15:38 objects
+-rw-rw-r-- 1 Dazer210 Dazer210  112 May 11 15:38 packed-refs
+drwxrwxr-x 5 Dazer210 Dazer210 4096 May 11 15:38 refs
+
+./.git/branches:
+total 8
+drwxrwxr-x 2 Dazer210 Dazer210 4096 May 11 15:38 .
+drwxrwxr-x 8 Dazer210 Dazer210 4096 May 14 18:17 ..
+
+./.git/hooks:
+total 72
+drwxrwxr-x 2 Dazer210 Dazer210 4096 May 11 15:38 .
+drwxrwxr-x 8 Dazer210 Dazer210 4096 May 14 18:17 ..
+-rwxrwxr-x 1 Dazer210 Dazer210  478 May 11 15:38 applypatch-msg.sample
+-rwxrwxr-x 1 Dazer210 Dazer210  896 May 11 15:38 commit-msg.sample
+-rwxrwxr-x 1 Dazer210 Dazer210 4726 May 11 15:38 fsmonitor-watchman.sample
+-rwxrwxr-x 1 Dazer210 Dazer210  189 May 11 15:38 post-update.sample
+-rwxrwxr-x 1 Dazer210 Dazer210  424 May 11 15:38 pre-applypatch.sample
+-rwxrwxr-x 1 Dazer210 Dazer210 1643 May 11 15:38 pre-commit.sample
+-rwxrwxr-x 1 Dazer210 Dazer210  416 May 11 15:38 pre-merge-commit.sample
+-rwxrwxr-x 1 Dazer210 Dazer210 1492 May 11 15:38 prepare-commit-msg.sample
+-rwxrwxr-x 1 Dazer210 Dazer210 1374 May 11 15:38 pre-push.sample
+-rwxrwxr-x 1 Dazer210 Dazer210 4898 May 11 15:38 pre-rebase.sample
+-rwxrwxr-x 1 Dazer210 Dazer210  544 May 11 15:38 pre-receive.sample
+-rwxrwxr-x 1 Dazer210 Dazer210 2783 May 11 15:38 push-to-checkout.sample
+-rwxrwxr-x 1 Dazer210 Dazer210 2308 May 11 15:38 sendemail-validate.sample
+-rwxrwxr-x 1 Dazer210 Dazer210 3650 May 11 15:38 update.sample
+
+./.git/info:
+total 12
+drwxrwxr-x 2 Dazer210 Dazer210 4096 May 11 15:38 .
+drwxrwxr-x 8 Dazer210 Dazer210 4096 May 14 18:17 ..
+-rw-rw-r-- 1 Dazer210 Dazer210  240 May 11 15:38 exclude
+
+./.git/logs:
+total 16
+drwxrwxr-x 3 Dazer210 Dazer210 4096 May 11 15:38 .
+drwxrwxr-x 8 Dazer210 Dazer210 4096 May 14 18:17 ..
+-rw-rw-r-- 1 Dazer210 Dazer210  193 May 11 15:38 HEAD
+drwxrwxr-x 4 Dazer210 Dazer210 4096 May 11 15:38 refs
+
+./.git/logs/refs:
+total 16
+drwxrwxr-x 4 Dazer210 Dazer210 4096 May 11 15:38 .
+drwxrwxr-x 3 Dazer210 Dazer210 4096 May 11 15:38 ..
+drwxrwxr-x 2 Dazer210 Dazer210 4096 May 11 15:38 heads
+drwxrwxr-x 3 Dazer210 Dazer210 4096 May 11 15:38 remotes
+
+./.git/logs/refs/heads:
+total 12
+drwxrwxr-x 2 Dazer210 Dazer210 4096 May 11 15:38 .
+drwxrwxr-x 4 Dazer210 Dazer210 4096 May 11 15:38 ..
+-rw-rw-r-- 1 Dazer210 Dazer210  193 May 11 15:38 main
+
+./.git/logs/refs/remotes:
+total 12
+drwxrwxr-x 3 Dazer210 Dazer210 4096 May 11 15:38 .
+drwxrwxr-x 4 Dazer210 Dazer210 4096 May 11 15:38 ..
+drwxrwxr-x 2 Dazer210 Dazer210 4096 May 11 15:38 origin
+
+./.git/logs/refs/remotes/origin:
+total 12
+drwxrwxr-x 2 Dazer210 Dazer210 4096 May 11 15:38 .
+drwxrwxr-x 3 Dazer210 Dazer210 4096 May 11 15:38 ..
+-rw-rw-r-- 1 Dazer210 Dazer210  193 May 11 15:38 HEAD
+
+./.git/objects:
+total 16
+drwxrwxr-x 4 Dazer210 Dazer210 4096 May 11 15:38 .
+drwxrwxr-x 8 Dazer210 Dazer210 4096 May 14 18:17 ..
+drwxrwxr-x 2 Dazer210 Dazer210 4096 May 11 15:38 info
+drwxrwxr-x 2 Dazer210 Dazer210 4096 May 11 15:38 pack
+
+./.git/objects/info:
+total 8
+drwxrwxr-x 2 Dazer210 Dazer210 4096 May 11 15:38 .
+drwxrwxr-x 4 Dazer210 Dazer210 4096 May 11 15:38 ..
+
+./.git/objects/pack:
+total 20
+drwxrwxr-x 2 Dazer210 Dazer210 4096 May 11 15:38 .
+drwxrwxr-x 4 Dazer210 Dazer210 4096 May 11 15:38 ..
+-r--r--r-- 1 Dazer210 Dazer210 1156 May 11 15:38 pack-6928581fded1cc3bfe8919d7b62c6919da20cc6f.idx
+-r--r--r-- 1 Dazer210 Dazer210  891 May 11 15:38 pack-6928581fded1cc3bfe8919d7b62c6919da20cc6f.pack
+-r--r--r-- 1 Dazer210 Dazer210   64 May 11 15:38 pack-6928581fded1cc3bfe8919d7b62c6919da20cc6f.rev
+
+./.git/refs:
+total 20
+drwxrwxr-x 5 Dazer210 Dazer210 4096 May 11 15:38 .
+drwxrwxr-x 8 Dazer210 Dazer210 4096 May 14 18:17 ..
+drwxrwxr-x 2 Dazer210 Dazer210 4096 May 11 15:38 heads
+drwxrwxr-x 3 Dazer210 Dazer210 4096 May 11 15:38 remotes
+drwxrwxr-x 2 Dazer210 Dazer210 4096 May 11 15:38 tags
+
+./.git/refs/heads:
+total 12
+drwxrwxr-x 2 Dazer210 Dazer210 4096 May 11 15:38 .
+drwxrwxr-x 5 Dazer210 Dazer210 4096 May 11 15:38 ..
+-rw-rw-r-- 1 Dazer210 Dazer210   41 May 11 15:38 main
+
+./.git/refs/remotes:
+total 12
+drwxrwxr-x 3 Dazer210 Dazer210 4096 May 11 15:38 .
+drwxrwxr-x 5 Dazer210 Dazer210 4096 May 11 15:38 ..
+drwxrwxr-x 2 Dazer210 Dazer210 4096 May 11 15:38 origin
+
+./.git/refs/remotes/origin:
+total 12
+drwxrwxr-x 2 Dazer210 Dazer210 4096 May 11 15:38 .
+drwxrwxr-x 3 Dazer210 Dazer210 4096 May 11 15:38 ..
+-rw-rw-r-- 1 Dazer210 Dazer210   30 May 11 15:38 HEAD
+
+./.git/refs/tags:
+total 8
+drwxrwxr-x 2 Dazer210 Dazer210 4096 May 11 15:38 .
+drwxrwxr-x 5 Dazer210 Dazer210 4096 May 11 15:38 ..
