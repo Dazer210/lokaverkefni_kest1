@@ -1,0 +1,11 @@
+Dazer210@Dawid:~$ tail /etc/passwd
+nm-openvpn:x:121:122:NetworkManager OpenVPN,,,:/var/lib/openvpn/chroot:/usr/sbin/nologin
+Dazer210:x:1000:1000:Dazer210:/home/Dazer210:/bin/bash
+aslaug:x:1001:1004:Áslaug Hauksdóttir:/home/aslaug:/bin/zsh
+bjorn:x:1002:1005:Björn Jóhannsson:/home/bjorn:/bin/bash
+bryndis:x:1003:1006:Bryndís Samúelsdóttir:/home/bryndis:/bin/bash
+elin:x:1004:1007:Elín Sveinsdóttir:/home/elin:/bin/bash
+ellert:x:1005:1008:Ellert Gestsson:/home/ellert:/bin/bash
+elsa:x:1006:1009:Elsa Jónsdóttir:/home/elsa:/bin/bash
+erla:x:1007:1010:Erla Þorbjörnsdóttir:/home/erla:/bin/bash
+erlendur:x:1008:1011:Erlendur Jónsson:/home/erlendur:/bin/bash
